@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**hrittwik/hrittwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hrittwik – Software QA & Testing Engineer, Cybersecurity Enthusiast, tester of apps, breaker of builds.
 
-Here are some ideas to get you started:
+- 🐞 I break apps so users don't have to
+- 🤔 Currently figuring out why my tests failed at 3 AM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Skills & Tools
+
+- **Languages:** Java, Python, JavaScript (basic)
+- **Automation:** Selenium WebDriver, Appium
+- **API Testing:** Postman, RestAssured
+- **CI/CD:** Jenkins
+- **Others:** Linux, Git, MySQL, Jira, TestRail
+
+#### 📈 Current Focus
+
+- Microservices & API test strategy
+- Mobile automation frameworks
+- Security testing fundamentals
+
+---
+
+> “Works on my machine.” – Me, probably  
+> Also me: *I can quit VIM*
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrittwikbarua)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrittwik@gmail.com)
