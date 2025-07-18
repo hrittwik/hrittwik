@@ -16,7 +16,7 @@ I'm Hrittwik – Senior Software QA & Testing Engineer, Cybersecurity Enthusiast
 #### 📈 Current Focus
 
 - Microservices & API test strategy
-- Mobile automation frameworks
+- Web and Mobile app test automation frameworks
 - Security testing fundamentals
 
 ---
