@@ -4,6 +4,7 @@ I'm Hrittwik – Senior Software QA & Testing Engineer, Cybersecurity Enthusiast
 
 - 🐞 I break apps so users don't have to
 - 🤔 Currently figuring out why my tests failed at 3 AM
+- 🌐 Committed to open-source and open knowledge initiatives
 
 #### 🔧 Skills & Tools
 
@@ -20,7 +21,7 @@ I'm Hrittwik – Senior Software QA & Testing Engineer, Cybersecurity Enthusiast
 - Security testing fundamentals
 
 ---
-> _*I can quit VIM :wq* 😎
+> _*I can quit VIM :wq* 😎    
 
 ---
 
