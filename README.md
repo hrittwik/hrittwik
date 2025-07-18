@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Hrittwik – Software QA & Testing Engineer, Cybersecurity Enthusiast, tester of apps, breaker of builds.
+I'm Hrittwik – Senior Software QA & Testing Engineer, Cybersecurity Enthusiast, Tester of apps, Breaker of builds.
 
 - 🐞 I break apps so users don't have to
 - 🤔 Currently figuring out why my tests failed at 3 AM
@@ -20,11 +20,10 @@ I'm Hrittwik – Software QA & Testing Engineer, Cybersecurity Enthusiast, teste
 - Security testing fundamentals
 
 ---
-
-> “Works on my machine.” – Me, probably  
-> Also me: *I can quit VIM*
+> _*I can quit VIM :wq* 😎
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrittwikbarua)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrittwik@gmail.com)
+### 🧠
+
+> _“The more I learn, the more I realise how much I don't know.”_
