@@ -3,7 +3,6 @@
 I'm Hrittwik – Senior Software QA & Testing Engineer, Cybersecurity Enthusiast, Tester of apps, Breaker of builds.
 
 - 🐞 I break apps so users don't have to
-- 🤔 Currently figuring out why my tests failed at 3 AM
 - 🌐 Committed to open-source and open knowledge initiatives
 
 #### 🔧 Skills & Tools
